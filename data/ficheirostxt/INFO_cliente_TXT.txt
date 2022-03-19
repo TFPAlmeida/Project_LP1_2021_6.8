@@ -1,0 +1,7 @@
+Numero de clientes: 6
+0 | Filipe Nogueira | 123 | Portugal | 0
+1 | Luis Gouveia | 124 | Portugal | 2
+2 | Carlos Ferreira | 125 | Portugal | 1
+3 | Ze Carlos | 126 | Portugal | 0
+4 | Nelo Chapeiro | 127 | Portugal | 0
+5 | Ana Malhoa | 128 | Portugal | 0
